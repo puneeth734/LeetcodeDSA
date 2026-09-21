@@ -13,37 +13,29 @@
  *     }
  * }
  */
+ 
 class Solution {
-    HashMap<Integer, Integer> pos = new HashMap<>();
+
+    private int preIndex = 0;
+    private int postIndex = 0;
 
     public TreeNode constructFromPrePost(int[] preorder, int[] postorder) {
-
-        for (int i = 0; i < postorder.length; i++) {
-            pos.put(postorder[i], i);
-        }
-        return build(preorder, 0, preorder.length - 1, postorder, 0, postorder.length - 1);
+        return constructTree(preorder, postorder);
     }
 
-    private TreeNode build(int[] preorder, int preStart, int preEnd, int[] postorder, int postStart, int postEnd) {
+    private TreeNode constructTree(int[] preorder, int[] postorder) {
+      
+        TreeNode root = new TreeNode(preorder[preIndex++]);
 
-        if (preStart > preEnd)
-            return null;
+        if (root.val != postorder[postIndex]) {
+            root.left = constructTree(preorder, postorder);
+        }
 
-        TreeNode root = new TreeNode(preorder[preStart]);
+        if (root.val != postorder[postIndex]) {
+            root.right = constructTree(preorder, postorder);
+        }
 
-        if (preStart == preEnd)
-            return root;
-
-        int leftRoot = preorder[preStart + 1];
-        int idx = pos.get(leftRoot);
-        int leftSize = idx - postStart + 1;
-
-        root.left = build(preorder, preStart + 1, preStart + leftSize,
-                          postorder, postStart, idx);
-
-        root.right = build(preorder, preStart + leftSize + 1, preEnd,
-                           postorder, idx + 1, postEnd - 1);
-
+        postIndex++;
         return root;
     }
 }
