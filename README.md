@@ -16,6 +16,7 @@ Daily Progress OF DSA in leetcode
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -25,6 +26,7 @@ Daily Progress OF DSA in leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -39,6 +41,7 @@ Daily Progress OF DSA in leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -48,6 +51,7 @@ Daily Progress OF DSA in leetcode
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -74,4 +78,8 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
