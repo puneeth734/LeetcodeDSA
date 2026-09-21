@@ -16,6 +16,7 @@ Daily Progress OF DSA in leetcode
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -24,6 +25,7 @@ Daily Progress OF DSA in leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -37,6 +39,7 @@ Daily Progress OF DSA in leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -65,6 +68,7 @@ Daily Progress OF DSA in leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
