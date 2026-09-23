@@ -41,6 +41,7 @@ Daily Progress OF DSA in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/puneeth734/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
@@ -87,6 +88,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/puneeth734/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
@@ -107,4 +109,12 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/puneeth734/LeetcodeDSA/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
