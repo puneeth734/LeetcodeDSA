@@ -14,6 +14,7 @@ Daily Progress OF DSA in leetcode
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +145,8 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
