@@ -57,6 +57,7 @@ Daily Progress OF DSA in leetcode
 | [0785-is-graph-bipartite](https://github.com/puneeth734/LeetcodeDSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Daily Progress OF DSA in leetcode
 | [0785-is-graph-bipartite](https://github.com/puneeth734/LeetcodeDSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Daily Progress OF DSA in leetcode
 | [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/puneeth734/LeetcodeDSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
+| [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,4 +185,16 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/puneeth734/LeetcodeDSA/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
