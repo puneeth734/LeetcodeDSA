@@ -28,6 +28,7 @@ Daily Progress OF DSA in leetcode
 | [0001-two-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -113,6 +114,7 @@ Daily Progress OF DSA in leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
@@ -193,6 +195,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/puneeth734/LeetcodeDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -230,4 +233,8 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
