@@ -53,6 +53,7 @@ Daily Progress OF DSA in leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/puneeth734/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -119,6 +120,7 @@ Daily Progress OF DSA in leetcode
 | [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/puneeth734/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/puneeth734/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/puneeth734/LeetcodeDSA/tree/master/0463-island-perimeter) |
@@ -169,6 +171,7 @@ Daily Progress OF DSA in leetcode
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/puneeth734/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/puneeth734/LeetcodeDSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -189,6 +192,7 @@ Daily Progress OF DSA in leetcode
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/puneeth734/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Math
 |  |
@@ -225,6 +229,7 @@ Daily Progress OF DSA in leetcode
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/puneeth734/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
