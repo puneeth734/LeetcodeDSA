@@ -13,6 +13,7 @@ Daily Progress OF DSA in leetcode
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/puneeth734/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/puneeth734/LeetcodeDSA/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/puneeth734/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/puneeth734/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
