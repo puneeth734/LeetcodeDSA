@@ -22,6 +22,7 @@ Daily Progress OF DSA in leetcode
 | [1091-shortest-path-in-binary-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ Daily Progress OF DSA in leetcode
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
