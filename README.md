@@ -286,4 +286,8 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/puneeth734/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/puneeth734/LeetcodeDSA/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
