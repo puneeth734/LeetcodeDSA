@@ -290,4 +290,5 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/puneeth734/LeetcodeDSA/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/puneeth734/LeetcodeDSA/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
