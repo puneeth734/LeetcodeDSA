@@ -9,6 +9,7 @@ Daily Progress OF DSA in leetcode
 | [0001-two-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -110,6 +111,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
@@ -121,6 +123,7 @@ Daily Progress OF DSA in leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
@@ -279,6 +282,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 ## Bidirectional Search
@@ -306,6 +310,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
 ## Sorting
