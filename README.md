@@ -14,6 +14,7 @@ Daily Progress OF DSA in leetcode
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/puneeth734/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/puneeth734/LeetcodeDSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/puneeth734/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
@@ -303,6 +304,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
