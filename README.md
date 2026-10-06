@@ -7,6 +7,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
@@ -296,4 +297,12 @@ Daily Progress OF DSA in leetcode
 | [0610-triangle-judgement](https://github.com/puneeth734/LeetcodeDSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/puneeth734/LeetcodeDSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/puneeth734/LeetcodeDSA/tree/master/0620-not-boring-movies) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
