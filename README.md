@@ -305,6 +305,7 @@ Daily Progress OF DSA in leetcode
 | [0610-triangle-judgement](https://github.com/puneeth734/LeetcodeDSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/puneeth734/LeetcodeDSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/puneeth734/LeetcodeDSA/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/puneeth734/LeetcodeDSA/tree/master/0627-swap-sex-of-employees) |
 ## Two Pointers
 |  |
 | ------- |
