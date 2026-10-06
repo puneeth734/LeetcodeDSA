@@ -7,6 +7,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -287,6 +288,7 @@ Daily Progress OF DSA in leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneeth734/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting
@@ -302,6 +304,7 @@ Daily Progress OF DSA in leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
