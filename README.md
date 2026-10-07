@@ -22,6 +22,7 @@ Daily Progress OF DSA in leetcode
 | [0485-max-consecutive-ones](https://github.com/puneeth734/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/puneeth734/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/puneeth734/LeetcodeDSA/tree/master/0904-fruit-into-baskets) |
@@ -218,6 +219,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/puneeth734/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Backtracking
