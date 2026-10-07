@@ -146,6 +146,7 @@ Daily Progress OF DSA in leetcode
 | [0207-course-schedule](https://github.com/puneeth734/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/puneeth734/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/puneeth734/LeetcodeDSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
@@ -222,6 +223,7 @@ Daily Progress OF DSA in leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
@@ -238,6 +240,7 @@ Daily Progress OF DSA in leetcode
 | [0020-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneeth734/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
