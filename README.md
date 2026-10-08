@@ -41,6 +41,7 @@ Daily Progress OF DSA in leetcode
 | [1091-shortest-path-in-binary-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -316,6 +317,7 @@ Daily Progress OF DSA in leetcode
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bidirectional Search
 |  |
 | ------- |
