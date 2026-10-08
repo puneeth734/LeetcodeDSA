@@ -342,6 +342,7 @@ Daily Progress OF DSA in leetcode
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/puneeth734/LeetcodeDSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/1075-project-employees-i) |
+| [1693-daily-leads-and-partners](https://github.com/puneeth734/LeetcodeDSA/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/puneeth734/LeetcodeDSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/puneeth734/LeetcodeDSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
