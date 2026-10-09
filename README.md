@@ -264,6 +264,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/puneeth734/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0344-reverse-string) |
@@ -357,6 +358,7 @@ Daily Progress OF DSA in leetcode
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/puneeth734/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0344-reverse-string) |
 ## Sorting
