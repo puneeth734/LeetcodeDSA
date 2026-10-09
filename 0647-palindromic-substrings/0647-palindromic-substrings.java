@@ -1,18 +1,27 @@
 class Solution {
     public int countSubstrings(String s) {
-       int count = 0;
-       for(int i=0; i<s.length(); i++){
-            count += expand(s, i, i);
-            count += expand(s, i, i+1);
-        } 
-       return count;
-    }
-    private int expand(String s, int l, int r){
         int count = 0;
-        while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)){
-            count++;
-            l--; r++;
+
+        for(int i=0; i<s.length(); i++){
+            String sub = "";
+            for(int j=i; j<s.length(); j++){
+                sub += s.charAt(j);
+                if(isPalindrome(sub)){
+                    count++;
+                }
+            }
         }
         return count;
+    }
+    private boolean isPalindrome(String s){
+        int l = 0, r = s.length()-1;
+        while(l < r){
+            if(s.charAt(l) != s.charAt(r)){
+                return false;
+            }
+            l++;
+            r--;
+        }
+        return true;
     }
 }
