@@ -262,6 +262,7 @@ Daily Progress OF DSA in leetcode
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/puneeth734/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/puneeth734/LeetcodeDSA/tree/master/0125-valid-palindrome) |
@@ -317,6 +318,7 @@ Daily Progress OF DSA in leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/puneeth734/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0053-maximum-subarray) |
@@ -358,6 +360,7 @@ Daily Progress OF DSA in leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/puneeth734/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
@@ -392,4 +395,8 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/puneeth734/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
