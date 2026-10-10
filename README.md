@@ -369,6 +369,7 @@ Daily Progress OF DSA in leetcode
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/puneeth734/LeetcodeDSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/1075-project-employees-i) |
+| [1393-capital-gainloss](https://github.com/puneeth734/LeetcodeDSA/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/puneeth734/LeetcodeDSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/puneeth734/LeetcodeDSA/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/puneeth734/LeetcodeDSA/tree/master/1741-find-total-time-spent-by-each-employee) |
