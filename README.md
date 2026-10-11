@@ -106,6 +106,7 @@ Daily Progress OF DSA in leetcode
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -270,6 +271,7 @@ Daily Progress OF DSA in leetcode
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -433,4 +435,8 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/puneeth734/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
