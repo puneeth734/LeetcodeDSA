@@ -46,6 +46,7 @@ Daily Progress OF DSA in leetcode
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneeth734/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/puneeth734/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -428,4 +429,8 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneeth734/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/puneeth734/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
