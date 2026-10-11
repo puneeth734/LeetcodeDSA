@@ -26,6 +26,7 @@ Daily Progress OF DSA in leetcode
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/puneeth734/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/puneeth734/LeetcodeDSA/tree/master/0733-flood-fill) |
@@ -107,6 +108,7 @@ Daily Progress OF DSA in leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0704-binary-search](https://github.com/puneeth734/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/puneeth734/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
