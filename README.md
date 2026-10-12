@@ -18,6 +18,7 @@ Daily Progress OF DSA in leetcode
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/puneeth734/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
@@ -276,6 +277,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -399,6 +401,7 @@ Daily Progress OF DSA in leetcode
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/puneeth734/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0567-permutation-in-string) |
