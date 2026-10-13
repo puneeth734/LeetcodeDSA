@@ -383,6 +383,7 @@ Daily Progress OF DSA in leetcode
 | [1068-product-sales-analysis-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/puneeth734/LeetcodeDSA/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/puneeth734/LeetcodeDSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/puneeth734/LeetcodeDSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/puneeth734/LeetcodeDSA/tree/master/1393-capital-gainloss) |
