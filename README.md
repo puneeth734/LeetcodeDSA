@@ -49,6 +49,7 @@ Daily Progress OF DSA in leetcode
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/puneeth734/LeetcodeDSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneeth734/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/puneeth734/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -124,6 +125,7 @@ Daily Progress OF DSA in leetcode
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puneeth734/LeetcodeDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/puneeth734/LeetcodeDSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneeth734/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
