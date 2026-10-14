@@ -394,6 +394,7 @@ Daily Progress OF DSA in leetcode
 | [1484-group-sold-products-by-the-date](https://github.com/puneeth734/LeetcodeDSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/puneeth734/LeetcodeDSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/puneeth734/LeetcodeDSA/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/puneeth734/LeetcodeDSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/puneeth734/LeetcodeDSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/puneeth734/LeetcodeDSA/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/puneeth734/LeetcodeDSA/tree/master/1741-find-total-time-spent-by-each-employee) |
