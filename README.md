@@ -12,6 +12,7 @@ Daily Progress OF DSA in leetcode
 | [0035-search-insert-position](https://github.com/puneeth734/LeetcodeDSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -119,6 +120,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0035-search-insert-position](https://github.com/puneeth734/LeetcodeDSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -223,6 +225,7 @@ Daily Progress OF DSA in leetcode
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/puneeth734/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
