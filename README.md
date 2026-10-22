@@ -28,6 +28,7 @@ Daily Progress OF DSA in leetcode
 | [0417-pacific-atlantic-water-flow](https://github.com/puneeth734/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/puneeth734/LeetcodeDSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/puneeth734/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ Daily Progress OF DSA in leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0567-permutation-in-string) |
@@ -159,6 +161,7 @@ Daily Progress OF DSA in leetcode
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneeth734/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -172,6 +175,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
