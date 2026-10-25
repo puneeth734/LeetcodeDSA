@@ -166,6 +166,7 @@ Daily Progress OF DSA in leetcode
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/puneeth734/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0227-basic-calculator-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
@@ -315,6 +316,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [2409-count-days-spent-together](https://github.com/puneeth734/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -329,6 +331,7 @@ Daily Progress OF DSA in leetcode
 | [0076-minimum-window-substring](https://github.com/puneeth734/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/puneeth734/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
+| [0227-basic-calculator-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
