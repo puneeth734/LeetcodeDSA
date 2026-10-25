@@ -18,6 +18,7 @@ Daily Progress OF DSA in leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/puneeth734/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
@@ -166,6 +167,7 @@ Daily Progress OF DSA in leetcode
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/puneeth734/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/puneeth734/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0503-next-greater-element-ii) |
@@ -315,6 +317,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/puneeth734/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
