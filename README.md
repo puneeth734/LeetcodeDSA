@@ -177,6 +177,7 @@ Daily Progress OF DSA in leetcode
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/puneeth734/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/puneeth734/LeetcodeDSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/puneeth734/LeetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/puneeth734/LeetcodeDSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneeth734/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -349,6 +350,7 @@ Daily Progress OF DSA in leetcode
 | [0647-palindromic-substrings](https://github.com/puneeth734/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/puneeth734/LeetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneeth734/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1021-remove-outermost-parentheses) |
@@ -475,6 +477,7 @@ Daily Progress OF DSA in leetcode
 | [0567-permutation-in-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/puneeth734/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/puneeth734/LeetcodeDSA/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -543,6 +546,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/puneeth734/LeetcodeDSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/puneeth734/LeetcodeDSA/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
