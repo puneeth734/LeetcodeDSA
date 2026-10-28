@@ -455,6 +455,7 @@ Daily Progress OF DSA in leetcode
 | [1587-bank-account-summary-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/puneeth734/LeetcodeDSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/puneeth734/LeetcodeDSA/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/puneeth734/LeetcodeDSA/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/puneeth734/LeetcodeDSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/puneeth734/LeetcodeDSA/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/puneeth734/LeetcodeDSA/tree/master/1741-find-total-time-spent-by-each-employee) |
