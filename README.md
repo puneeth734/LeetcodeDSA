@@ -467,6 +467,7 @@ Daily Progress OF DSA in leetcode
 | [1795-rearrange-products-table](https://github.com/puneeth734/LeetcodeDSA/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/puneeth734/LeetcodeDSA/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/puneeth734/LeetcodeDSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/puneeth734/LeetcodeDSA/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/puneeth734/LeetcodeDSA/tree/master/3475-dna-pattern-recognition) |
 ## Two Pointers
 |  |
