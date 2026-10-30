@@ -54,6 +54,7 @@ Daily Progress OF DSA in leetcode
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puneeth734/LeetcodeDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/1314-matrix-block-sum) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/puneeth734/LeetcodeDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puneeth734/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -187,6 +188,7 @@ Daily Progress OF DSA in leetcode
 | [1021-remove-outermost-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/puneeth734/LeetcodeDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -551,6 +553,7 @@ Daily Progress OF DSA in leetcode
 | [0225-implement-stack-using-queues](https://github.com/puneeth734/LeetcodeDSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puneeth734/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/puneeth734/LeetcodeDSA/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
