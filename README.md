@@ -336,6 +336,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/puneeth734/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/puneeth734/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/puneeth734/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/puneeth734/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/puneeth734/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -422,6 +423,7 @@ Daily Progress OF DSA in leetcode
 | [0032-longest-valid-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/puneeth734/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/puneeth734/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0410-split-array-largest-sum) |
@@ -595,4 +597,8 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0070-climbing-stairs](https://github.com/puneeth734/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/puneeth734/LeetcodeDSA/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/puneeth734/LeetcodeDSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
