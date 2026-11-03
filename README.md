@@ -256,6 +256,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -595,6 +596,7 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/puneeth734/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/puneeth734/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 ## Memoization
