@@ -260,6 +260,7 @@ Daily Progress OF DSA in leetcode
 | [0021-merge-two-sorted-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -586,6 +587,7 @@ Daily Progress OF DSA in leetcode
 | [0155-min-stack](https://github.com/puneeth734/LeetcodeDSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/puneeth734/LeetcodeDSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puneeth734/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/puneeth734/LeetcodeDSA/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
