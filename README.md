@@ -80,6 +80,7 @@ Daily Progress OF DSA in leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
@@ -259,6 +260,7 @@ Daily Progress OF DSA in leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0707-design-linked-list) |
@@ -517,6 +519,7 @@ Daily Progress OF DSA in leetcode
 | [0042-trapping-rain-water](https://github.com/puneeth734/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/puneeth734/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0344-reverse-string) |
