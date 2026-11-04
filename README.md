@@ -264,6 +264,7 @@ Daily Progress OF DSA in leetcode
 | [0206-reverse-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -527,6 +528,7 @@ Daily Progress OF DSA in leetcode
 | [0647-palindromic-substrings](https://github.com/puneeth734/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/puneeth734/LeetcodeDSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
