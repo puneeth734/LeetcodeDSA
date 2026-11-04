@@ -81,6 +81,7 @@ Daily Progress OF DSA in leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/puneeth734/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/puneeth734/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
@@ -262,6 +263,7 @@ Daily Progress OF DSA in leetcode
 | [0021-merge-two-sorted-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/puneeth734/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0328-odd-even-linked-list) |
@@ -523,6 +525,7 @@ Daily Progress OF DSA in leetcode
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/puneeth734/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/puneeth734/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0283-move-zeroes) |
@@ -629,4 +632,5 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/puneeth734/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
