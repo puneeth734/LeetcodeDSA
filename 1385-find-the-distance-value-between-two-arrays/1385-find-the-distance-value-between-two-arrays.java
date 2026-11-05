@@ -1,16 +1,31 @@
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
-        int distance=0;
-        for(int i=0;i<arr1.length;i++){
-            boolean isValid=true;
-            for(int j=0;j<arr2.length;j++){
-                if(Math.abs(arr1[i]-arr2[j])<=d){
-                    isValid=false;
-                    break;
-                }
+        Arrays.sort(arr2);          // Step 1
+        int distance = 0;           // Step 2
+
+        for (int val : arr1) {      // Step 3
+            if (notInRange(arr2, val - d, val + d)) {
+                distance++;
             }
-            if(isValid) distance++;
         }
-        return distance;
+        return distance;            // Step 4
+    }
+
+    private static boolean notInRange(int[] arr, int from, int to) {
+        int start = 0;
+        int end = arr.length - 1;
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+
+            if (arr[mid] >= from && arr[mid] <= to) {
+                return false;
+            } else if (arr[mid] < from) {
+                start = mid + 1;
+            } else {
+                end = mid - 1;
+            }
+        }
+        return true;
     }
 }
