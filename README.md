@@ -209,6 +209,7 @@ Daily Progress OF DSA in leetcode
 | [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Daily Progress OF DSA in leetcode
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puneeth734/LeetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Daily Progress OF DSA in leetcode
 | [0707-design-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -640,6 +643,7 @@ Daily Progress OF DSA in leetcode
 | [0234-palindrome-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/puneeth734/LeetcodeDSA/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
