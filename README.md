@@ -54,6 +54,7 @@ Daily Progress OF DSA in leetcode
 | [1004-max-consecutive-ones-iii](https://github.com/puneeth734/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puneeth734/LeetcodeDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -199,6 +200,7 @@ Daily Progress OF DSA in leetcode
 | [0901-online-stock-span](https://github.com/puneeth734/LeetcodeDSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneeth734/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puneeth734/LeetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/puneeth734/LeetcodeDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -219,6 +221,7 @@ Daily Progress OF DSA in leetcode
 | [0739-daily-temperatures](https://github.com/puneeth734/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/puneeth734/LeetcodeDSA/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puneeth734/LeetcodeDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Lifting
 |  |
@@ -278,6 +281,7 @@ Daily Progress OF DSA in leetcode
 | [0445-add-two-numbers-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
