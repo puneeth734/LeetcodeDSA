@@ -22,6 +22,7 @@ Daily Progress OF DSA in leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/puneeth734/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/puneeth734/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/puneeth734/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
@@ -86,6 +87,7 @@ Daily Progress OF DSA in leetcode
 | [0141-linked-list-cycle](https://github.com/puneeth734/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puneeth734/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/puneeth734/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/puneeth734/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
@@ -294,6 +296,7 @@ Daily Progress OF DSA in leetcode
 | [0053-maximum-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/puneeth734/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
@@ -493,6 +496,7 @@ Daily Progress OF DSA in leetcode
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/puneeth734/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/puneeth734/LeetcodeDSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Database
 |  |
@@ -562,6 +566,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0015-3sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/puneeth734/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/puneeth734/LeetcodeDSA/tree/master/0169-majority-element) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/puneeth734/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puneeth734/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -660,4 +665,8 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/puneeth734/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/puneeth734/LeetcodeDSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
