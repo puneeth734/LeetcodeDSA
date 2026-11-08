@@ -113,6 +113,7 @@ Daily Progress OF DSA in leetcode
 | [0101-symmetric-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -130,6 +131,7 @@ Daily Progress OF DSA in leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -185,6 +187,7 @@ Daily Progress OF DSA in leetcode
 | [0101-symmetric-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
