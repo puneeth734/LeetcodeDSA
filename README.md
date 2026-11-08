@@ -113,6 +113,7 @@ Daily Progress OF DSA in leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -127,6 +128,7 @@ Daily Progress OF DSA in leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/puneeth734/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/puneeth734/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0210-course-schedule-ii) |
@@ -177,6 +179,7 @@ Daily Progress OF DSA in leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -194,6 +197,7 @@ Daily Progress OF DSA in leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/puneeth734/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/puneeth734/LeetcodeDSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/puneeth734/LeetcodeDSA/tree/master/0225-implement-stack-using-queues) |
