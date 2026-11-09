@@ -118,6 +118,7 @@ Daily Progress OF DSA in leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
@@ -141,6 +142,7 @@ Daily Progress OF DSA in leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/puneeth734/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -202,6 +204,7 @@ Daily Progress OF DSA in leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
@@ -313,6 +316,7 @@ Daily Progress OF DSA in leetcode
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Linked List
@@ -516,6 +520,7 @@ Daily Progress OF DSA in leetcode
 | [0053-maximum-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/puneeth734/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/puneeth734/LeetcodeDSA/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/puneeth734/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0410-split-array-largest-sum) |
