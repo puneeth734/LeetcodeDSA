@@ -122,6 +122,7 @@ Daily Progress OF DSA in leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -178,6 +179,7 @@ Daily Progress OF DSA in leetcode
 | [0074-search-a-2d-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneeth734/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0410-split-array-largest-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -210,6 +212,7 @@ Daily Progress OF DSA in leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -752,4 +755,8 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
