@@ -31,26 +31,20 @@ class Solution {
 
         while(!q.isEmpty()){
             int size = q.size();
-            Queue<Node> q2 = new LinkedList<>();
 
             for(int i=0; i < size; i++){
                 Node node = q.poll();
-                if(q.isEmpty()){
-                    node.next = null;
-                }else{
+
+                if (i < size - 1) {
                     node.next = q.peek();
                 }
 
                 if(node.left != null){
-                    q2.offer(node.left);
+                    q.offer(node.left);
                 }
                 if(node.right != null) {
-                    q2.offer(node.right);
+                    q.offer(node.right);
                 }
-            }
-            while(!q2.isEmpty()){
-                Node child = q2.poll();
-                q.offer(child);
             }
         }
         return root;
