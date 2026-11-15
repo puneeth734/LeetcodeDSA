@@ -15,7 +15,6 @@
  */
  
 class Solution {
-
     private int preIndex = 0;
     private int postIndex = 0;
 
