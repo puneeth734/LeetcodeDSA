@@ -532,6 +532,7 @@ Daily Progress OF DSA in leetcode
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/puneeth734/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bracket Sequences
@@ -759,6 +760,7 @@ Daily Progress OF DSA in leetcode
 | ------- |
 | [0735-asteroid-collision](https://github.com/puneeth734/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/puneeth734/LeetcodeDSA/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Recursion
 |  |
 | ------- |
