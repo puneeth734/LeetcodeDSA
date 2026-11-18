@@ -143,6 +143,7 @@ Daily Progress OF DSA in leetcode
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/puneeth734/LeetcodeDSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -186,6 +187,7 @@ Daily Progress OF DSA in leetcode
 | [0543-diameter-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/puneeth734/LeetcodeDSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -266,6 +268,7 @@ Daily Progress OF DSA in leetcode
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/puneeth734/LeetcodeDSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -368,6 +371,7 @@ Daily Progress OF DSA in leetcode
 | [0463-island-perimeter](https://github.com/puneeth734/LeetcodeDSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/puneeth734/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/puneeth734/LeetcodeDSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0662-maximum-width-of-binary-tree) |
