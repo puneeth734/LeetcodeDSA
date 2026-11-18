@@ -138,6 +138,7 @@ Daily Progress OF DSA in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
@@ -211,6 +212,7 @@ Daily Progress OF DSA in leetcode
 | [0222-count-complete-tree-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0410-split-array-largest-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -256,6 +258,7 @@ Daily Progress OF DSA in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
