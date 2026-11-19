@@ -157,6 +157,7 @@ Daily Progress OF DSA in leetcode
 | [0993-cousins-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
@@ -202,6 +203,7 @@ Daily Progress OF DSA in leetcode
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -232,6 +234,7 @@ Daily Progress OF DSA in leetcode
 | [1004-max-consecutive-ones-iii](https://github.com/puneeth734/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puneeth734/LeetcodeDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/puneeth734/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/puneeth734/LeetcodeDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puneeth734/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -285,6 +288,7 @@ Daily Progress OF DSA in leetcode
 | [0993-cousins-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puneeth734/LeetcodeDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/puneeth734/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Stack
 |  |
@@ -400,6 +404,7 @@ Daily Progress OF DSA in leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth734/LeetcodeDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -615,6 +620,7 @@ Daily Progress OF DSA in leetcode
 | [0647-palindromic-substrings](https://github.com/puneeth734/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bidirectional Search
 |  |
