@@ -569,6 +569,7 @@ Daily Progress OF DSA in leetcode
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneeth734/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/puneeth734/LeetcodeDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/puneeth734/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/3863-minimum-operations-to-sort-a-string) |
