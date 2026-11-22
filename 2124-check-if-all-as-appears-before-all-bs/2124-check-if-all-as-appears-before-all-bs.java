@@ -1,10 +1,7 @@
 class Solution {
     public boolean checkString(String s) {
-        boolean seenB = false;
-        for (char c : s.toCharArray()) {
-            if (c == 'b') {
-                seenB = true;
-            } else if (seenB) {
+        for(int i = 0; i < s.length()-1; i++){
+            if(s.charAt(i) == 'b' && s.charAt(i+1) =='a'){
                 return false;
             }
         }
