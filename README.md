@@ -60,6 +60,7 @@ Daily Progress OF DSA in leetcode
 | [1019-next-greater-node-in-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneeth734/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/puneeth734/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/puneeth734/LeetcodeDSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -505,6 +506,7 @@ Daily Progress OF DSA in leetcode
 | [0974-subarray-sums-divisible-by-k](https://github.com/puneeth734/LeetcodeDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/puneeth734/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneeth734/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/puneeth734/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
@@ -532,6 +534,7 @@ Daily Progress OF DSA in leetcode
 | [0445-add-two-numbers-ii](https://github.com/puneeth734/LeetcodeDSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/puneeth734/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneeth734/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/puneeth734/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/puneeth734/LeetcodeDSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -793,11 +796,13 @@ Daily Progress OF DSA in leetcode
 | [0232-implement-queue-using-stacks](https://github.com/puneeth734/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/puneeth734/LeetcodeDSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/puneeth734/LeetcodeDSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneeth734/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/puneeth734/LeetcodeDSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/puneeth734/LeetcodeDSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneeth734/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
