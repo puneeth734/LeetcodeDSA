@@ -1,34 +1,34 @@
 class Solution {
+    class Node {
+        int visited;
+        int dist;
+        int node;
+        Node(int node, int dist, int visited) {
+            this.node = node;
+            this.dist = dist;
+            this.visited = visited;
+        }
+    }
     public int shortestPathLength(int[][] graph) {
         int n = graph.length;
-        int targetMask = (1 << n) - 1;
-
-        Queue<int[]> queue = new LinkedList<>();
-        Set<String> visited = new HashSet<>();
-
-        for (int i = 0; i < n; i++) {
-            queue.offer(new int[]{i, 1 << i, 0});
-            visited.add(i + "," + (1 << i));
+        Set<Integer>[] visited = new HashSet[n];
+        Queue<Node> queue = new LinkedList<>();
+		
+        for(int i = 0; i < n; i++) {
+            visited[i] = new HashSet<>();
+            queue.add(new Node(i, 0, 1 << i));
+            visited[i].add(1 << i);
         }
+        while(!queue.isEmpty()) {
+            Node node = queue.poll();
 
-        while (!queue.isEmpty()) {
-            int[] curr = queue.poll();
-            int node = curr[0];
-            int state = curr[1];
-            int distance = curr[2];
-
-            if (state == targetMask) {
-                return distance;
-            }
-
-            for (int neighbor : graph[node]) {
-                int newState = state | (1 << neighbor);
-                String key = neighbor + "," + newState;
-
-                if (!visited.contains(key)) {
-                    visited.add(key);
-                    queue.offer(new int[]{neighbor, newState, distance + 1});
-                }
+            if(node.visited == (1 << n) - 1) 
+                return node.dist;
+            for(int nei : graph[node.node]) {
+                int mask = node.visited | (1 << nei);
+		
+                if(visited[nei].add(mask)) 
+                    queue.add(new Node(nei, 1 + node.dist, mask));
             }
         }
         return -1;
