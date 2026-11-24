@@ -395,6 +395,7 @@ Daily Progress OF DSA in leetcode
 | [0785-is-graph-bipartite](https://github.com/puneeth734/LeetcodeDSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/puneeth734/LeetcodeDSA/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/puneeth734/LeetcodeDSA/tree/master/0909-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -477,6 +478,7 @@ Daily Progress OF DSA in leetcode
 | [0785-is-graph-bipartite](https://github.com/puneeth734/LeetcodeDSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/puneeth734/LeetcodeDSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/puneeth734/LeetcodeDSA/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/puneeth734/LeetcodeDSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Sliding Window
 |  |
@@ -628,6 +630,7 @@ Daily Progress OF DSA in leetcode
 | [0542-01-matrix](https://github.com/puneeth734/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/puneeth734/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/puneeth734/LeetcodeDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/puneeth734/LeetcodeDSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -860,8 +863,13 @@ Daily Progress OF DSA in leetcode
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/puneeth734/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/puneeth734/LeetcodeDSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
