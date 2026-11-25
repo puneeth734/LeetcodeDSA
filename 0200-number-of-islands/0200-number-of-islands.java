@@ -1,48 +1,24 @@
-class Solution {
-    public int numIslands(char[][] grid) {
-        if (grid == null || grid.length == 0) return 0;
-
-        int rows = grid.length;
-        int cols = grid[0].length;
-        int islands = 0;
-
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == '1') {
-                    bfs(grid, i, j);
-                    islands++;
+class Solution{
+    public int numIslands(char[][] grid){
+        int count = 0;
+        for(int i = 0 ; i < grid.length ; i++){
+            for(int j = 0 ; j < grid[0].length ; j++){
+                if(grid[i][j] == '1'){
+                    count++;
+                    dfs(grid , i , j);
                 }
             }
         }
-
-        return islands;
+        return count;
     }
-
-    private void bfs(char[][] grid, int r, int c) {
-        int rows = grid.length;
-        int cols = grid[0].length;
-
-        Queue<int[]> queue = new LinkedList<>();
-        queue.add(new int[]{r, c});
-        grid[r][c] = '0'; // Mark as visited
-
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
-
-        while (!queue.isEmpty()) {
-            int[] current = queue.poll();
-            int currR = current[0];
-            int currC = current[1];
-
-            for (int i = 0; i < 4; i++) {
-                int newR = currR + dr[i];
-                int newC = currC + dc[i];
-
-                if (newR >= 0 && newR < rows && newC >= 0 && newC < cols && grid[newR][newC] == '1') {
-                    queue.add(new int[]{newR, newC});
-                    grid[newR][newC] = '0'; // Mark as visited
-                }
-            }
+    void dfs(char[][] grid , int i , int j){
+        if(i < 0 || j < 0 || i >= grid.length || j >= grid[0].length || grid[i][j] != '1'){
+            return;
         }
+        grid[i][j] = '0';
+        dfs(grid , i + 1 , j);
+        dfs(grid , i - 1 , j);
+        dfs(grid , i , j + 1);
+        dfs(grid , i , j - 1);
     }
 }
