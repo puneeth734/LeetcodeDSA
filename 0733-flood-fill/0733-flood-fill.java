@@ -1,36 +1,39 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        
-        int originalColor = image[sr][sc];
 
-        if (originalColor == color) {
-            return image;
+        int original = image[sr][sc];
+
+        if (original == color) return image;
+
+        Queue<int[]> q = new ArrayDeque<>();
+        q.add(new int[]{sr, sc});
+
+        image[sr][sc] = color;
+
+        int[] dx = {-1, 1, 0, 0};
+        int[] dy = {0, 0, -1, 1};
+
+        while (!q.isEmpty()) {
+
+            int[] curr = q.poll();
+
+            int r = curr[0];
+            int c = curr[1];
+
+            for (int i = 0; i < 4; i++) {
+
+                int nr = r + dx[i];
+                int nc = c + dy[i];
+
+                if (nr >= 0 && nr < image.length &&
+                    nc >= 0 && nc < image[0].length &&
+                    image[nr][nc] == original) {
+
+                    image[nr][nc] = color;
+                    q.add(new int[]{nr, nc});
+                }
+            }
         }
-
-        dfs(image, sr, sc, originalColor, color);
-
         return image;
-    }
-
-    public void dfs(int[][] image, int row, int col, int originalColor, int color) {
-        
-        if (row < 0 || row >= image.length ||
-            col < 0 || col >= image[0].length) {
-            return;
-        }
-
-        if (image[row][col] != originalColor) {
-            return;
-        }
-
-        image[row][col] = color;
-
-        dfs(image, row - 1, col, originalColor, color);
-
-        dfs(image, row + 1, col, originalColor, color);
-
-        dfs(image, row, col - 1, originalColor, color);
-
-        dfs(image, row, col + 1, originalColor, color);
     }
 }
