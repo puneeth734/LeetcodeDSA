@@ -540,6 +540,7 @@ Daily Progress OF DSA in leetcode
 | [0523-continuous-subarray-sum](https://github.com/puneeth734/LeetcodeDSA/tree/master/0523-continuous-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/puneeth734/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/puneeth734/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/puneeth734/LeetcodeDSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/puneeth734/LeetcodeDSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneeth734/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/puneeth734/LeetcodeDSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -816,6 +817,7 @@ Daily Progress OF DSA in leetcode
 | [0735-asteroid-collision](https://github.com/puneeth734/LeetcodeDSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/puneeth734/LeetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puneeth734/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/puneeth734/LeetcodeDSA/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
